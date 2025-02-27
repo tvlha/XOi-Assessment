@@ -9,9 +9,9 @@ This project contains automated Cypress test cases for user registration, login,
    git clone https://github.com/tvlha/XOi-Assessment.git
    ```
 3. **Install Dependencies**
-  ```
-  npm install
-  ```
+   ```
+   npm install
+   ```
 4. **Run Tests**  
 - Open Cypress UI:  
   ```
