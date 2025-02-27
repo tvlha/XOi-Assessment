@@ -1,0 +1,37 @@
+{
+    "users": [
+      {
+        "name": "John Doe",
+        "password": "Password123",
+        "dob": {
+          "day": "3",
+          "month": "5",
+          "year": "2003"
+        },
+        "address": {
+          "first_name": "John",
+          "last_name": "Doe",
+          "company": "XOi",
+          "street": "123 Main St",
+          "address2": "Apt 1A",
+          "country": "United States",
+          "state": "Maryland",
+          "city": "Catonsville",
+          "zipcode": "21228",
+          "mobile": "1234567890"
+        },
+        "payment": {
+        "card_name": "John Doe",
+        "card_number": "4111111111111111",
+        "cvc": "123",
+        "expiry_month": "12",
+        "expiry_year": "2025"
+       }
+      }
+    ],
+    "invalid_user": {
+      "email": "invalid.email@gmail.com",
+      "password": "InvalidPassword"
+    }
+  }
+  
